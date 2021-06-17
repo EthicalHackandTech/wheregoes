@@ -4,9 +4,9 @@
 
 ### INSTALLATION & USAGE (Kali Linux / Termux)
  ```
-           git clone https://github.com/EthicalHackandTech/wherwgoes.git<br>
-           cd wheregoes<br>
-           chmod u+x wheregoes.py<br>
-           python3 wheregoes.py<br>
+           git clone https://github.com/EthicalHackandTech/wherwgoes.git
+           cd wheregoes
+           chmod u+x wheregoes.py
+           python3 wheregoes.py
 ```
  for help contact :``` hacktheworld8080@gmail.com ```
