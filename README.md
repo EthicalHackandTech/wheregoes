@@ -6,6 +6,7 @@
  ```
            git clone https://github.com/EthicalHackandTech/wherwgoes.git
            cd wheregoes
+           pip install -r requirements.txt
            chmod u+x wheregoes.py
            python3 wheregoes.py
 ```
